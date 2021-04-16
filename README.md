@@ -1,16 +1,42 @@
-### Hi there 👋
+### Thanks for stopping by!
 
-<!--
-**Zuzah/Zuzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Toronto based software engineer. I code mainly in Python, TypeScript, C#, and occasionally in Scala.
+When I'm not building apps, I'm probably thinking about them.
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<th>Programming Languages </th>
+	<th>Frameworks & Libraries</th></tr>
+	
+<tr>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Badge                                                                                                                                          | Name           |
+|------------------------------------------------------------------------------------------------------------------------------------------------|--------------- |
+| <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>                |  Python        |
+| <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>    |  TypeScript    |
+| <img alt="Scala" src="https://img.shields.io/badge/scala-%23DC322F.svg?&style=for-the-badge&logo=scala&logoColor=white"/>                      |  Scala         |
+| <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>                     |  C#            |
+
+</td>
+<td>
+
+| Badge                                                                                                                                                | Name             |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>                   |  Angular         |
+| <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>     |  Material UI     |
+| <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>                            |  Flask           |
+| <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>                    |  Node.js         |
+| <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>                                       |  .NET Core       |
+
+</td>
+</tr> 
+</table>
+
+
+### Programming Stats
+![MT Hasni's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuzah&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=dracula)
+
+![MT Hasni Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuzah&langs_count=6&layout=compact&theme=dracula)
+
+![Zuzah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zuzah&layout=compact&theme=dracula&v=2)
