@@ -13,8 +13,8 @@ When I'm not building apps, I'm probably thinking about them.
 
 | Badge                                                                                                                                          | Name           |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------- |
-| <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>                |  Python        |
 | <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>    |  TypeScript    |
+| <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>                |  Python        |
 | <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>                          |  Ruby          |
 | <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>                     |  C#            |
 
@@ -24,8 +24,8 @@ When I'm not building apps, I'm probably thinking about them.
 | Badge                                                                                                                                                | Name             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>                   |  Angular         |
-| <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>                     |  Ruby on Rails   |
-| <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>                            |  Flask           |
+| <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>                            |  Flask  
+| <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>                     |  Ruby on Rails   |         |
 | <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>                    |  Node.js         |
 
 
