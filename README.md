@@ -24,10 +24,10 @@ When I'm not building apps, I'm probably thinking about them.
 | Badge                                                                                                                                                | Name             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>                   |  Angular         |
-| <img alt="Material UI" src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/>     |  Material UI     |
+| <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>                     |  Ruby on Rails   |
 | <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/>                            |  Flask           |
 | <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>                    |  Node.js         |
-| <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>                                       |  Ruby on Rails      |
+
 
 </td>
 </tr> 
