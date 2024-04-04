@@ -37,6 +37,4 @@ When I'm not building apps, I'm probably thinking about them.
 ### Programming Stats
 ![MT Hasni's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuzah&show_icons=true&theme=tokyonight)
 
-![MT Hasni Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuzah&langs_count=6&layout=compact&theme=tokyonight)
-
 ![Zuzah's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zuzah&layout=compact&theme=tokyonight&v=2)
