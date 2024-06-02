@@ -11,7 +11,7 @@ When I'm not building apps, I'm probably thinking about them.
 <tr>
 <td>
 
-| Badge                                                                                                                                          | Name           |
+| Technology                                                                                                                                      | Name           |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------- |
 | <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>                |  Python        |
 | <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>    |  TypeScript    |
@@ -20,7 +20,7 @@ When I'm not building apps, I'm probably thinking about them.
 </td>
 <td>
 
-| Badge                                                                                                                                                | Name             |
+| Technology                                                                                                                                           | Name             |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
 | <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>                              |  FastAPI         |
 | <img alt="Angular" src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>                   |  Angular         |
