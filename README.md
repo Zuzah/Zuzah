@@ -1,4 +1,4 @@
-### Thanks for stopping by!
+### Thanks for stopping by! :vulcan_salute:
 
 I'm a Toronto based software engineer. I code mainly in Python, TypeScript, and C#.
 When I'm not building apps, I'm probably thinking about them.
