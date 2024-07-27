@@ -1,7 +1,7 @@
 ### Hi! :vulcan_salute:
 
 I'm a Toronto based software engineer. I code mainly in Python, TypeScript, and C# - but I dabble in a lot of things.
-When I'm not building apps, I'm probably thinking about them. Currently interested in frameeworks like FastAPI and Angular.
+When I'm not building apps, I'm probably thinking about them. Currently interested in frameworks like FastAPI and Angular.
 
 <table>
 <tr>
