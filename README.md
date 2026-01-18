@@ -1,5 +1,5 @@
 I'm a Toronto based software engineer. I code mainly in Python, TypeScript, Go, Ruby, and, C# - but I dabble in a lot of things.
-When I'm not building apps, I'm probably thinking about them,
+When I'm not building apps, I'm probably thinking about them.
 <table>
 <tr>
 <th>Programming Languages </th>
